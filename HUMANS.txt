@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	lostinspacetime -- author/designer -- @player2life
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    boilerplate for their fantastic template
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

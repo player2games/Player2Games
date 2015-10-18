@@ -1,0 +1,62 @@
+/*ul#topnav li {
+	display: inline;
+	padding: 10px;
+} */
+div#coverimg {
+	/*background-image:url('..');*/
+	background-color: #666666; /*--TEMPORARY--*/
+	height: 34em;
+	width: 65%;
+}
+div#newsfeed {
+	/*background-image:url('..');*/
+	background-color: #006600; /*--TEMPORARY--*/
+	height: 17em;
+	width: 35%;
+}
+div#twtfeed {
+	/*background-image:url('..');*/
+	background-color: #006600; /*--TEMPORARY--*/
+	height: 17em;
+	width: 35%;
+}
+div#curproj {
+	/*background-image:url('..');*/
+	background-color: #0099FF; /*--TEMPORARY--*/
+	height: 20em;
+	width: 50%;
+}
+div#futproj {
+	/*background-image:url('..');*/
+	background-color: #0099FF; /*--TEMPORARY--*/
+	height: 20em;
+	width: 50%;
+}
+.container .row h1 {
+	text-shadow: 3px 3px lightblue ;
+	font-weight: bold;
+	size: 100pt;
+	color: white;
+	padding: 50px 0px 0px 50px;
+	margin-bottom: none;
+}
+.container .row h3 {
+	text-shadow: 3px 3px lightblue ;
+	font-weight: bold;
+	size: 50px;
+	color: white;
+	padding: 50px 0px 0px 50px;
+	margin-bottom: none;
+}
+.container .row p {
+	size: 50px;
+	color: white;
+	padding: 10px 0px 0px 50px;
+	margin-bottom: 0px;
+}
+.container.row {
+
+}
+div.aboutSplash li {
+	display: inline;
+}
